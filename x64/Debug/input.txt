@@ -1,0 +1,6 @@
+Fednik.I.O IU6-31M 21 3 4 5 4
+Demin.K.L MT12-22 14 3 4 4 3
+Oleinik.J.E BMT4-32 10 4 4 5 4
+Oleinik.J.E BMT4-32 10 4 4 5 5
+Oleinik.J.E BMT4-32 10 2 2 5 4
+Shishaeva.E.V IU8-23 11 4 4 5 4

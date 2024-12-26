@@ -1,0 +1,143 @@
+Original Vector:
+Name: Fednik.I.O
+Group: IU6-31M
+ID: 21
+Grades: 3 4 5 4 
+Name: Demin.K.L
+Group: MT12-22
+ID: 14
+Grades: 3 4 4 3 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 4 4 5 4 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 4 4 5 5 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 2 2 5 4 
+Name: Shishaeva.E.V
+Group: IU8-23
+ID: 11
+Grades: 4 4 5 4 
+
+Original List:
+Name: Fednik.I.O
+Group: IU6-31M
+ID: 21
+Grades: 3 4 5 4 
+Name: Demin.K.L
+Group: MT12-22
+ID: 14
+Grades: 3 4 4 3 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 4 4 5 4 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 4 4 5 5 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 2 2 5 4 
+Name: Shishaeva.E.V
+Group: IU8-23
+ID: 11
+Grades: 4 4 5 4 
+
+Original Set:
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 2 2 5 4 
+Name: Demin.K.L
+Group: MT12-22
+ID: 14
+Grades: 3 4 4 3 
+Name: Fednik.I.O
+Group: IU6-31M
+ID: 21
+Grades: 3 4 5 4 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 4 4 5 4 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 4 4 5 5 
+
+Original Unordered Set:
+Name: Fednik.I.O
+Group: IU6-31M
+ID: 21
+Grades: 3 4 5 4 
+Name: Demin.K.L
+Group: MT12-22
+ID: 14
+Grades: 3 4 4 3 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 4 4 5 4 
+Name: Shishaeva.E.V
+Group: IU8-23
+ID: 11
+Grades: 4 4 5 4 
+
+Sorted Vector:
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 2 2 5 4 
+Name: Demin.K.L
+Group: MT12-22
+ID: 14
+Grades: 3 4 4 3 
+Name: Fednik.I.O
+Group: IU6-31M
+ID: 21
+Grades: 3 4 5 4 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 4 4 5 4 
+Name: Shishaeva.E.V
+Group: IU8-23
+ID: 11
+Grades: 4 4 5 4 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 4 4 5 5 
+
+Copied Vector:
+Name: Fednik.I.O
+Group: IU6-31M
+ID: 21
+Grades: 3 4 5 4 
+Name: Demin.K.L
+Group: MT12-22
+ID: 14
+Grades: 3 4 4 3 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 4 4 5 4 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 4 4 5 5 
+Name: Oleinik.J.E
+Group: BMT4-32
+ID: 10
+Grades: 2 2 5 4 
+Name: Shishaeva.E.V
+Group: IU8-23
+ID: 11
+Grades: 4 4 5 4 
